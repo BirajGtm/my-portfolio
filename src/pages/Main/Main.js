@@ -18,8 +18,10 @@ function Main() {
             <Skills />
             <Experience />
             <Projects />
+            {/* Achievement services and testimonials not required for now */}
             {/* <Achievement /> */}
             {/* <Services /> */}
+            
             {/* <Testimonials /> */}
             <Blog />
             <Contacts />
