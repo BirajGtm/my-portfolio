@@ -9,7 +9,6 @@ import {
     FaLinkedinIn,
     FaGithub,
     FaYoutube,
-    FaBloggerB,
     FaRedditAlien,
     FaStackOverflow,
     FaCodepen,

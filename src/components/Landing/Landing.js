@@ -9,13 +9,9 @@ import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
 
 import {
-    FaTwitter,
     FaLinkedin,
     FaGithub,
-    FaYoutube,
     FaStackOverflow,
-    FaAngellist,
-    FaList,
     FaBlog,
 } from 'react-icons/fa';
 
