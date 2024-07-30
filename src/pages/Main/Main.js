@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 
 import { Navbar, Footer, Landing, About, Skills, Blog, Education, Experience, Contacts, Projects } from '../../components'
 import { headerData } from '../../data/headerData'
+import Transcripts from '../../components/Transcripts/Transcripts'
 
 function Main() {
     return (
@@ -17,6 +18,7 @@ function Main() {
             <Education />
             <Skills />
             <Experience />
+            <Transcripts />
             <Projects />
             {/* Achievement services and testimonials not required for now */}
             {/* <Achievement /> */}
