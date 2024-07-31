@@ -142,7 +142,7 @@ function Contacts() {
 
                 // axios.post(contactsData.sheetAPI, responseData).then((res) => {
                 //     console.log('success');
-                //     setSuccess(true);
+                    setSuccess(true);
                 //     setErrMsg('');
 
                     setName('');
