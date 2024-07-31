@@ -34,7 +34,7 @@ function Contacts() {
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
 
-    // const [success, setSuccess] = useState(false);
+    const [success, setSuccess] = useState(false);
     const [errMsg, setErrMsg] = useState('');
 
     const { theme } = useContext(ThemeContext);
