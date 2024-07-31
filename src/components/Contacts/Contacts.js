@@ -34,7 +34,7 @@ function Contacts() {
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
 
-    const [success, setSuccess] = useState(false);
+    // const [success, setSuccess] = useState(false);
     const [errMsg, setErrMsg] = useState('');
 
     const { theme } = useContext(ThemeContext);
@@ -134,11 +134,11 @@ function Contacts() {
 
         if (name && email && message) {
             if (isEmail(email)) {
-                const responseData = {
-                    name: name,
-                    email: email,
-                    message: message,
-                };
+                // const responseData = {
+                //     name: name,
+                //     email: email,
+                //     message: message,
+                // };
 
                 // axios.post(contactsData.sheetAPI, responseData).then((res) => {
                 //     console.log('success');
