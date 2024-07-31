@@ -44,7 +44,7 @@ function Transcripts() {
       {transcriptsData.length > 0 && (
         <div
           className="projects"
-          id="projects"
+          id="transcripts"
           style={{ backgroundColor: theme.secondary }}
         >
           <div className="projects--header">
