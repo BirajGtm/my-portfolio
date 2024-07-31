@@ -148,8 +148,8 @@ function Contacts() {
                     setName('');
                     setEmail('');
                     setMessage('');
-                    setOpen(true);
-                    setErrMsg('Message Sent!');
+                    // setOpen(true);
+                    // setErrMsg('Message Sent!');
                 // });
             } else {
                 setErrMsg('Invalid email');
