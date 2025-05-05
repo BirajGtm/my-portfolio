@@ -11,7 +11,7 @@ export const projectsData = [
         projectDesc: 'A cross-platform mobile app for discovering nearby restaurants, browsing menus, and booking seats in real time, using Google Maps integration.',
         tags: ['React Native', 'Node.js', 'Express', 'PostgreSQL', 'Google Maps API'],
         code: 'https://github.com/BirajGtm/book-my-seat', 
-        demo: 'https://github.com/BirajGtm/book-my-seat', 
+        demo: 'https://drive.google.com/drive/folders/1REsbzcMfKNUXP0NjFFPqfeoylAYPX9bb?usp=sharing', 
         image: one
     },
     {
