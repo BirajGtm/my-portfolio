@@ -1,7 +1,7 @@
 export const aboutData = {
     title: "Who I am",
     description1: "My name is Biraj.",
-    description2: "I'm a web/mobile developer and IT professional based in Toronto. I specialize in creating dynamic applications for mobile/web and providing IT solutions. In my free time, I love diving into new technologies and frameworks to enhance my skills and explore innovative ways to solve problems. I enjoy working on freelance projects and developing my own tech solutions, always striving to expand my knowledge and stay at the forefront of the ever-evolving tech landscape.",
+    description2: "My name is Biraj. I’m a web/mobile developer, IT professional, and machine learning enthusiast based in Toronto. I specialize in building dynamic, user-centered applications and delivering robust IT solutions. In my free time, I explore new technologies, frameworks, and AI techniques to sharpen my skills and craft innovative solutions. Whether working on freelance projects or developing my own ideas, I’m always driven to learn, create, and push the boundaries of what’s possible.",
     image: 2,
     resume: ""
 }
