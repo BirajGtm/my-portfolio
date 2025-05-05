@@ -2,45 +2,49 @@ import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
+import five from '../assets/svg/projects/five.svg'
+import six from '../assets/svg/projects/six.svg'
+import seven from '../assets/svg/projects/seven.svg'
+import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Excel to firebase',
-        projectDesc: 'Converts excel data to store data in firebase in json format.',
-        tags: ['JavaScript', 'CSS', 'HTML'],
-        code: 'https://github.com/BirajGtm/excel-to-firebase',
-        demo: 'https://github.com/BirajGtm/excel-to-firebase',
+        projectName: 'Book My Seat',
+        projectDesc: 'A cross-platform mobile app for discovering nearby restaurants, browsing menus, and booking seats in real time, using Google Maps integration.',
+        tags: ['React Native', 'Node.js', 'Express', 'PostgreSQL', 'Google Maps API'],
+        code: 'https://github.com/BirajGtm/book-my-seat', 
+        demo: 'https://github.com/BirajGtm/book-my-seat', 
         image: one
     },
     {
         id: 2,
-        projectName: 'Pharma Management',
-        projectDesc: 'The Pharma Stock App is a React-based web application designed to streamline inventory management for pharmacies. ',
-        tags: ['JS/React/Node', 'CSS', 'HTML'],
-        code: 'https://github.com/BirajGtm/',
-        demo: 'https://github.com/BirajGtm/',
+        projectName: 'Bhansa Ghar - Food Delivery Platform',
+        projectDesc: 'A web application designed to simulate a food delivery platform. It allows customers to browse restaurant menus, place orders, and track delivery. Restaurants can manage menus and process incoming orders, while drivers can view and update delivery assignments.',
+        tags: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'Passport.js'],
+        code: 'https://github.com/BirajGtm/bhansa-ghar', 
+        demo: 'https://bhansa-ghar.onrender.com/',
         image: two
-    },
+    },    
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/BirajGtm/',
-        demo: 'https://github.com/BirajGtm/',
+        projectName: "Thief Detector",
+        projectDesc: "A motion detection system that uses OpenCV to identify potential intruders in a video feed by analyzing changes in the scene.",
+        tags: ["Python", "OpenCV", "Image Processing", "Machine Learning"],
+        code: "https://github.com/BirajGtm/ml-audiobook-creator",
+        demo: "https://github.com/BirajGtm/ml-audiobook-creator",
         image: three
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/BirajGtm/',
-        demo: 'https://github.com/BirajGtm/',
+        projectName: "PDF Audiobook Creator",
+        projectDesc: "A Python application that extracts text from a PDF file, cleans it, and converts it into speech, generating an audiobook.",
+        tags: ["Python", "gTTS", "PyPDF2", "NLP", "Machine Learning"],
+        code: "https://github.com/BirajGtm/ml-thief-detector",
+        demo: "https://github.com/BirajGtm/ml-thief-detector",
         image: four
-    },
+    }
     
 ]
 
