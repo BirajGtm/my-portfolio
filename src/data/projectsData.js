@@ -28,8 +28,8 @@ export const projectsData = [
         projectName: "Thief Detector",
         projectDesc: "A motion detection system that uses OpenCV to identify potential intruders in a video feed by analyzing changes in the scene.",
         tags: ["Python", "OpenCV", "Image Processing", "Machine Learning"],
-        code: "https://github.com/BirajGtm/ml-audiobook-creator",
-        demo: "https://github.com/BirajGtm/ml-audiobook-creator",
+        code: "https://github.com/BirajGtm/ml-thief-detector",
+        demo: "https://github.com/BirajGtm/ml-thief-detector",
         image: three
     },
     {
@@ -37,8 +37,8 @@ export const projectsData = [
         projectName: "PDF Audiobook Creator",
         projectDesc: "A Python application that extracts text from a PDF file, cleans it, and converts it into speech, generating an audiobook.",
         tags: ["Python", "gTTS", "PyPDF2", "NLP", "Machine Learning"],
-        code: "https://github.com/BirajGtm/ml-thief-detector",
-        demo: "https://github.com/BirajGtm/ml-thief-detector",
+        code: "https://github.com/BirajGtm/ml-audiobook-creator",
+        demo: "https://github.com/BirajGtm/ml-audiobook-creator",
         image: four
     }
     
